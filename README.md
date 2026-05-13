@@ -34,15 +34,11 @@ I am a passionate learner exploring the world of programming and web development
 
 ---
 
-## 👀 Profile Visitors
+## 👀 Profile Visitors 
+<p align="left"> 
+  <img src="komarev.com" alt="Visitor Count" /> 
+</p> 
 
-<p align="center">
-  <img src="vercel.app" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="komarev.com" alt="Visitor Count" />
-</p>
 
 
 
