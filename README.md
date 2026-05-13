@@ -4,45 +4,71 @@
   <img src="herokuapp.com" alt="Typing SVG" />
 </p>
 
-### 👨‍💻 About Me
-- 🐍 Currently mastering **Python** and **C programming**.
-- 🌐 Building modern web applications using **HTML5 & CSS3**.
-- 🚀 Always open to collaborating on open-source projects.
-- 📍 Based in **India**.
+# 💫 About Me:
+✨ Welcome to my GitHub profile! 
+✨<br><br>👋 Hi, I'm saru-des-ntom!<br>
+I am a passionate learner exploring the world of programming and web development.<br>
+🧠 What I'm learning right now: C, C++, HTML5, CSS3, and JavaScript.<br>
+🎯 My Goal: To master data structures in C/C++ and build responsive websites.<br>
+💻 My Projects: Check out my repositories to see my coding journey.<br>
+🛠️ Building foundational coding logic and clean user interfaces.<br>
+💬 Ask me about: Basic algorithms, semantic HTML, or styling layouts.<br><br>
 
+📫 Connect with me: sartajpu54@gmail.com
+
+## 🛠️ Skills
+### 🌱 I'm Learning\
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,bootstrap" />
+</p>
 ---
 
-### 🌐 Connect With Me
+## 📧 Contact Me
 
-<p align="left">
-  <a href="mailto:sartajdes54@gmail.com" target="_blank">
-    <img src="shields.io" alt="Gmail" />
-  </a>
-  <a href="linkedin.com" target="_blank">
-    <img src="shields.io" alt="LinkedIn" />
-  </a>
-  <a href="instagram.com" target="_blank">
-    <img src="shields.io" alt="Instagram" />
+<p>
+  <a href="mailto:sartajpu54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="shields.io" alt="Python" />
-  <img src="shields.io" alt="C" />
-  <img src="shields.io" alt="HTML5" />
-  <img src="shields.io" alt="CSS3" />
-  <img src="shields.io" alt="Git" />
-</p>
-
----
-
-### 📊 GitHub Analytics
+## 👀 Profile Visitors
 
 <p align="center">
-  <img src="vercel.app" alt="Sartaz's GitHub Stats" width="48%" />
-  <img src="herokuapp.com" alt="Sartaz's Streak Stats" width="48%" />
+  <img src="vercel.app" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="komarev.com" alt="Visitor Count" />
+</p>
+
+
+
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=saru-des-ntom&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=saru-des-ntom&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=saru-des-ntom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+<!-- VISIT WEBSITE SECTION WITH SKILL ICONS -->
+<div align="center">
+  <h2>🌐 Click Below to Visit My Portfolio 🌐</h2>
+
+  <a href="https://yourusername.github.io" target="_blank" rel="noreferrer">
+    <img 
+      src="https://skillicons.dev/icons?i=website,github(https://github.com/saru-des-ntom)" 
+      alt="Visit My Portfolio Website"
+    />
+  </a>
+
+  <p>
+    💡 <i>Tip: Click the icons above to explore my live portfolio website!</i>
+  </p>
+</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
