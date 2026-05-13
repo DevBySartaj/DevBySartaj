@@ -50,15 +50,29 @@ I am a passionate learner exploring the world of programming and web development
 
 ---
 <!-- VISIT WEBSITE SECTION WITH SKILL ICONS --> 
-<div align="center"> 
-  <h2>🌐 Click Below to Visit My Portfolio </h2> 
-  
-  <!-- NEW PROFESSIONAL BUTTON -->
-  <a href="sartazpage.web.app" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" alt="Visit Portfolio" />
-  </a> 
-  
-  <p> 💡 <i>Tip: Click the icon above to explore my live portfolio website!</i> </p> 
-</div> 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <h2>🌐 Click Below to Visit My Portfolio</h2>
 
+  <a href="https://sartazpage.web.app" target="_blank" rel="noreferrer">
+    <button style="
+      background-color: #4CAF50;
+      border: none;
+      color: white;
+      padding: 12px 25px;
+      font-size: 16px;
+      border-radius: 8px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      transition: background-color 0.3s, transform 0.2s;
+    " 
+    onmouseover="this.style.backgroundColor='#45a049'; this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.backgroundColor='#4CAF50'; this.style.transform='scale(1)'">
+      <img src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" alt="Portfolio Icon" width="24" height="24">
+      Visit My Portfolio
+    </button>
+  </a>
+
+  <p>💡 <i>Tip: Click the button above to explore my live portfolio website!</i></p>
+</div>
