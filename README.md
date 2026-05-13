@@ -34,13 +34,10 @@ I am a passionate learner exploring the world of programming and web development
 
 ---
 
-## 👀 Profile Visitors 
-<p align="left"> 
-  <img src="komarev.com" alt="Visitor Count" /> 
-</p> 
-
-
-
+## 👀 Profile Visitors
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=saru-des-ntom&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
 
 ---
 # 📊 GitHub Stats:
