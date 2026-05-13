@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Mr_Sartaz!
 
-<p align="left">
-  <img src="herokuapp.com" alt="Typing SVG" />
-</p>
-
 # 💫 About Me:
 ✨ Welcome to my GitHub profile! 
 ✨<br><br>👋 Hi, I'm saru-des-ntom!<br>
