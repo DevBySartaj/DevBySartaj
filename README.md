@@ -68,7 +68,7 @@ I am a passionate learner exploring the world of programming and web development
       display: inline-flex;
       align-items: center;
       gap: 10px;
-      text-decoration: none;
+      text-decoration: none; 
       transition: background-color 0.3s, transform 0.2s;
     "
     onmouseover="this.style.backgroundColor='#45a049'; this.style.transform='scale(1.05)'" 
