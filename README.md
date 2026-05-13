@@ -49,29 +49,30 @@ I am a passionate learner exploring the world of programming and web development
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saru-des-ntom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<!-- VISIT WEBSITE SECTION WITH SKILL ICONS --> 
 <div align="center">
   <h2>🌐 Click Below to Visit My Portfolio</h2>
 
-  <a href="https://sartazpage.web.app" target="_blank" rel="noreferrer">
-    <button style="
+  <a href="https://sartazpage.web.app" target="_blank" rel="noreferrer" style="
       background-color: #4CAF50;
-      border: none;
       color: white;
       padding: 12px 25px;
       font-size: 16px;
       border-radius: 8px;
       cursor: pointer;
-      display: flex;
+      display: inline-flex;
       align-items: center;
       gap: 10px;
+      text-decoration: none;
       transition: background-color 0.3s, transform 0.2s;
-    " 
+    "
     onmouseover="this.style.backgroundColor='#45a049'; this.style.transform='scale(1.05)'" 
     onmouseout="this.style.backgroundColor='#4CAF50'; this.style.transform='scale(1)'">
       <img src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" alt="Portfolio Icon" width="24" height="24">
       Visit My Portfolio
-    </button>
+  </a>
+
+  <p>💡 <i>Tip: Click the button above to explore my live portfolio website!</i></p>
+</div>
   </a>
 
   <p>💡 <i>Tip: Click the button above to explore my live portfolio website!</i></p>
