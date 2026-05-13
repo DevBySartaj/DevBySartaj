@@ -49,19 +49,12 @@ I am a passionate learner exploring the world of programming and web development
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saru-des-ntom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<!-- VISIT WEBSITE SECTION WITH SKILL ICONS -->
-<div align="center">
-  <h2>🌐 Click Below to Visit My Portfolio 🌐</h2>
-
-  <a href="https://yourusername.github.io" target="_blank" rel="noreferrer">
-    <img 
-      src="https://skillicons.dev/icons?i=website,github(https://github.com/saru-des-ntom)" 
-      alt="Visit My Portfolio Website"
-    />
-  </a>
-
-  <p>
-    💡 <i>Tip: Click the icons above to explore my live portfolio website!</i>
-  </p>
-</div>
+<!-- VISIT WEBSITE SECTION WITH SKILL ICONS --> 
+<div align="center"> 
+  <h2>🌐 Click Below to Visit My Portfolio </h2> 
+  <a href="https://saru-des-ntom.github.io" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=website" alt="Visit My Portfolio Website" /> 
+  </a> 
+  <p> 💡 <i>Tip: Click the icon above to explore my live portfolio website!</i> </p> 
+</div> 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
