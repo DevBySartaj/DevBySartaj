@@ -35,9 +35,18 @@ I am a passionate learner exploring the world of programming and web development
 ---
 
 ## 👀 Profile Visitors
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saru-des-ntom&style=flat-square&color=blue" alt="Visitor Count" />
-</p>
+<div align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=saru-des-ntom&style=flat-square&color=blue" 
+    alt="Visitor Count" 
+    style="
+      border-radius: 12px;   /* Rounded corners */
+      padding: 5px;          /* Some space around */
+      width: 180px;           /* Slightly bigger */
+      box-shadow: 2px 2px 8px rgba(0,0,0,0.2); /* Subtle shadow */
+    "
+  />
+</div>
 
 ---
 # 📊 GitHub Stats:
