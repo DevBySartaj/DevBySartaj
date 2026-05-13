@@ -55,7 +55,7 @@ I am a passionate learner exploring the world of programming and web development
   
   <!-- NEW PROFESSIONAL BUTTON -->
   <a href="sartazpage.web.app" target="_blank" rel="noreferrer"> 
-    <img src="shields.io👉%20Click%20Here-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" alt="Visit Portfolio" />
   </a> 
   
   <p> 💡 <i>Tip: Click the icon above to explore my live portfolio website!</i> </p> 
