@@ -40,10 +40,10 @@ I am a passionate learner exploring the world of programming and web development
     src="https://komarev.com/ghpvc/?username=saru-des-ntom&style=flat-square&color=blue" 
     alt="Visitor Count" 
     style="
-      border-radius: 12px;   /* Rounded corners */
-      padding: 5px;          /* Some space around */
-      width: 180px;           /* Slightly bigger */
-      box-shadow: 2px 2px 8px rgba(0,0,0,0.2); /* Subtle shadow */
+      border-radius: 12px;       /* Rounded corners */
+      padding: 5px;               /* Some space around */
+      width: 540px;               /* 3 times bigger */
+      box-shadow: 2px 2px 12px rgba(0,0,0,0.3); /* Slightly stronger shadow */
     "
   />
 </div>
