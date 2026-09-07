@@ -44,7 +44,7 @@
 
 <br>
 
-<a href="https://github.com/saru-des-ntom">
+<a href="https://github.com/DevBySartaj">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
