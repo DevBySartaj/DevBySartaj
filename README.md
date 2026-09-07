@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm DevBySartaj!
+# 👋 Hi, I'm Sartaj!
 
 ### `Developer • Programmer • Web Developer • Lifelong Learner`
 
@@ -52,7 +52,7 @@
 <br>
 
 <a href="https://github.com/DevBySartaj">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
