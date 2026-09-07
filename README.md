@@ -52,7 +52,11 @@
 <br>
 
 <a href="https://github.com/DevBySartaj">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img 
+    src="https://raw.githubusercontent.com/DevBySartaj/DevBySartaj/main/dp.png"
+    width="210"
+    alt="DevBySartaj Profile Photo"
+  />
 </a>
 
 </td>
