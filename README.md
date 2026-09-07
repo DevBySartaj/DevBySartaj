@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mr_Sartaz!
+# 👋 Hi, I'm DevBySartaj!
 
 ### `Developer • Programmer • Web Developer • Lifelong Learner`
 
@@ -10,37 +10,44 @@
 
 <br>
 
+<!-- ========================================================= -->
+<!-- PREMIUM TOP BANNER -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:161b22&text=Mr_Sartaz&fontColor=58A6FF&fontSize=48&fontAlignY=38&desc=Code%20%7C%20Build%20%7C%20Learn%20%7C%20Repeat&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:161b22&text=DevBySartaj&fontColor=58A6FF&fontSize=48&fontAlignY=38&desc=Code%20%7C%20Build%20%7C%20Learn%20%7C%20Repeat&descAlignY=62&descSize=18" width="100%"/>
 
 </div>
 
 <br>
 
-<!-- ====================================================== -->
-<!-- PREMIUM PROFILE / TERMINAL HERO -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!-- PREMIUM PROFILE + TERMINAL -->
+<!-- ========================================================= -->
 
 <table>
 <tr>
 
-<td width="34%" align="center">
+<td width="35%" align="center">
 
-<img src="https://github.com/saru-des-ntom.png" width="220" alt="Mr_Sartaz GitHub Profile"/>
+<img src="https://github.com/saru-des-ntom.png" width="210" alt="DevBySartaj Profile Photo"/>
 
 <br><br>
 
-### `saru-des-ntom`
+# `DevBySartaj`
 
-**Developer**
+### Developer
+
+`@saru-des-ntom`
 
 <br>
 
-💻 Coding  
+💻 Programming  
 🌐 Web Development  
 🧠 Problem Solving  
-🚀 Building Projects
+🚀 Building Projects  
+📚 Continuous Learning
 
 <br>
 
@@ -50,27 +57,30 @@
 
 </td>
 
-<td width="66%">
+<td width="65%">
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
-│  ●  ●  ●              saru-des-ntom@github                   │
+│  ●  ●  ●              devbysartaj@github                    │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  $ whoami                                                    │
-│  > Mr_Sartaz                                                 │
+│  > DevBySartaj                                               │
 │                                                              │
 │  $ role                                                      │
 │  > Developer & Programming Learner                           │
 │                                                              │
-│  $ languages                                                  │
+│  $ languages                                                 │
 │  > C • C++ • Python • HTML5 • CSS3 • JavaScript              │
 │                                                              │
-│  $ currently_learning                                        │
-│  > Data Structures • C/C++ • Web Development                 │
-│                                                              │
 │  $ focus                                                     │
-│  > Clean Code • Logic Building • Responsive UI               │
+│  > Web Development • Programming • Problem Solving           │
+│                                                              │
+│  $ currently_learning                                        │
+│  > DSA • C/C++ • JavaScript • Web Development                │
+│                                                              │
+│  $ tools                                                     │
+│  > Git • GitHub • VS Code • Linux                             │
 │                                                              │
 │  $ status                                                    │
 │  > ● Learning • Building • Improving                         │
@@ -78,7 +88,7 @@
 │  $ location                                                  │
 │  > India 🇮🇳                                                  │
 │                                                              │
-│  $ contact                                                    │
+│  $ contact                                                   │
 │  > sartajpu54@gmail.com                                      │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
